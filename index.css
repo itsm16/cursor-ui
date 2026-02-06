@@ -15,6 +15,12 @@
     --link-primary: #f54e00;
 }
 
+.logo{
+    svg{
+        width: 100px;
+    }
+}
+
 .btn-white {
     background-color: var(--text-primary);
     padding: 4px 12px;
