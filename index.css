@@ -163,7 +163,7 @@ nav {
 
     .company-card {
         background-color: var(--card-primary);
-        width: 137px;
+        width: 180px;
         display: flex;
         justify-content: center;
         padding: 30px 0px;
